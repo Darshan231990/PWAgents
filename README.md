@@ -99,7 +99,7 @@ tests/
 ---
 
 ## 📂 Project Structure
-
+```
 PWAgents/
 │── agent.py # Planner+Generator agent core
 │── main.py # Run planner
@@ -111,7 +111,7 @@ PWAgents/
 │── tests/ # Generated Playwright tests
 │── requirements.txt
 │── .venv/
-
+```
 
 ---
 
@@ -173,11 +173,11 @@ Auto-selector extraction from snapshot
 Deep DOM crawling
 Multi-step flows
 Auto-locators (like PW Agents)
-```
+Next Steps:- 
 Vercel UI panel for Planner & Generator
 Hybrid mode: Local LLM + OpenAI toggle
 Plugin support for custom tools
-```
+
 Why PWAgents Is Special
 
 This is one of the first fully local, AI-driven testing agents with:
