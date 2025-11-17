@@ -173,7 +173,6 @@ tests/search-valid.spec.ts
 - Deep DOM crawling
 - Multi-step flows
 - Auto-locators (like PW Agents)
-
 - Vercel UI panel for Planner & Generator
 - Hybrid mode: Local LLM + OpenAI toggle
 - Plugin support for custom tools
