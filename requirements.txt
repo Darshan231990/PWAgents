@@ -1,6 +1,26 @@
+# Core LangChain
 langchain==1.0.2
 langchain-core==1.0.1
 langchain-community==0.4.1
 langchain-ollama==1.0.0
+
+# Browser automation
 playwright>=1.55.0
+
+# Parsing / HTML
 beautifulsoup4>=4.14.0
+
+# Optional utilities used in tools
+python-dotenv>=1.0.1
+
+# Needed for JSON + http requests if models require
+requests>=2.32.0
+
+# For DOM snapshot formatting
+lxml>=4.9.3
+
+# For transcription/sanitization
+regex>=2023.10.3
+
+# Safety: prevents breaking when typing hints require it
+typing-extensions>=4.10.0
