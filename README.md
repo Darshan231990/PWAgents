@@ -167,24 +167,24 @@ tests/search-valid.spec.ts
         });
       });
 
-Vision / Next Steps
+### Vision / Next Steps
 
-Auto-selector extraction from snapshot
-Deep DOM crawling
-Multi-step flows
-Auto-locators (like PW Agents)
-Next Steps:- 
-Vercel UI panel for Planner & Generator
-Hybrid mode: Local LLM + OpenAI toggle
-Plugin support for custom tools
+- Auto-selector extraction from snapshot
+- Deep DOM crawling
+- Multi-step flows
+- Auto-locators (like PW Agents)
 
-Why PWAgents Is Special
+- Vercel UI panel for Planner & Generator
+- Hybrid mode: Local LLM + OpenAI toggle
+- Plugin support for custom tools
 
-This is one of the first fully local, AI-driven testing agents with:
-No cloud dependency
-No API key requirement
-Unlimited usage
-Extensible tool ecosystem
-Compatible with any website
-It replicates Playwright’s Agent but experience—locally.
+### Why PWAgents Is Special
+
+- This is one of the first fully local, AI-driven testing agents with:
+- No cloud dependency
+- No API key requirement
+- Unlimited usage
+- Extensible tool ecosystem
+- Compatible with any website
+- It replicates Playwright’s Agent but experience—locally.
 
