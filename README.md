@@ -84,6 +84,18 @@ Works with:
   <<<BEGIN_PLAN_MD>>>
   <<<END_PLAN_MD>>>
   ```
+# 📦 Virtual Environment Setup (venv)
+
+This project is designed to run inside a Python virtual environment to avoid global pollution.
+
+### Create venv
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+playwright install
+ollama serve
+```
 
 ### ✅ 6. Output Structure
 Generated files live in:
