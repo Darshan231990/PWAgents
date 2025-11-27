@@ -133,13 +133,9 @@ PWAgents/
 ```bash
 python3 main.py
 Opens the browser
-
 Inspects the page
-
 Gathers UI controls
-
 Generates a detailed plan
-
 Saves to /specs/...md
 ```
 

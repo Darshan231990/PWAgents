@@ -237,7 +237,7 @@ def run_planner_agent(task: str):
 
                     # write-protect until snapshot exists
                     if fn_name in {
-                        "planner_write_markdown",
+                       "planner_write_markdown",
                         "edit_createFile",
                         "generator_write_test",
                         "wrapped__planner_write_markdown",
